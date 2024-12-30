@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/nand_to_tetris/META"
+  "_build/install/default/lib/nand_to_tetris/dune-package"
+  "_build/install/default/lib/nand_to_tetris/opam"
+]
+bin: [
+  "_build/install/default/bin/nand_to_tetris"
+]

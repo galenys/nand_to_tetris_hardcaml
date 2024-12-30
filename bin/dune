@@ -1,0 +1,4 @@
+(executable
+ (public_name nand_to_tetris)
+ (name main)
+ (libraries nand_to_tetris))
